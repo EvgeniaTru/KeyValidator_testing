@@ -10,7 +10,6 @@
 * [Дефект 1](https://github.com/EvgeniaTru/KeyValidator_testing/issues/1)
 * [Дефект 2](https://github.com/EvgeniaTru/KeyValidator_testing/issues/2)
 * [Дефект 3](https://github.com/EvgeniaTru/KeyValidator_testing/issues/3)
-* [Дефект 4](https://github.com/EvgeniaTru/KeyValidator_testing/issues/4)
 
 ## Описание процесса тестирования
 
